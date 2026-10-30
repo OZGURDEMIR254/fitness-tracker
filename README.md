@@ -18,4 +18,4 @@ Welcome to my Python project repository! This is a command-line application desi
 2. Clone this repository or download the `main.py` file.
 3. Open your terminal and run the script:
    ```bash
-   python main.py-tracker
+   python main.py
